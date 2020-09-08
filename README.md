@@ -1,2 +1,0 @@
-# sakalli
-Liff
